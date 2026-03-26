@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project implements a **Multimodal Machine Learning model** to predict housing prices by combining **structured tabular data** and **house images**.
+This project task 4 Developershub Corporation implements a **Multimodal Machine Learning model** to predict housing prices by combining **structured tabular data** and **house images**.
 
 Traditional models rely only on numerical features, but this project integrates visual information using Convolutional Neural Networks (CNNs) to improve prediction accuracy.
 
